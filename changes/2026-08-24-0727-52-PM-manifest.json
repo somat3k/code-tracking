@@ -1,0 +1,51 @@
+{
+  "stage": "7.4",
+  "session": "Edge Board Session 2",
+  "master": "PITBULL_Master_Stage7_4_EdgeBoard_Session2.pine",
+  "sha256": "a59c1b52c08843aa0d47e139e316d0acd769eb6f89756b4794e6ccbc91e387b2",
+  "master_lines": 5241,
+  "tables": 3,
+  "cards": 13,
+  "right_side_open": true,
+  "tooltips": true,
+  "monospace": true,
+  "modules": [
+    {
+      "file": "00_HEADER_PANEL.pine.part",
+      "lines": 196
+    },
+    {
+      "file": "01_FOUNDATION_POOL.pine.part",
+      "lines": 626
+    },
+    {
+      "file": "02_ENGINES_ARTIFACT_POOL.pine.part",
+      "lines": 439
+    },
+    {
+      "file": "03_EXECUTION_POSITION_SERVICE.pine.part",
+      "lines": 406
+    },
+    {
+      "file": "04A_RENDER_REGISTRY.pine.part",
+      "lines": 497
+    },
+    {
+      "file": "04B_FVG_TRANSPORT.pine.part",
+      "lines": 230
+    },
+    {
+      "file": "04C_REMOTE_PRIMITIVES.pine.part",
+      "lines": 172
+    },
+    {
+      "file": "05A_WEDGE_CEMENT_FIB.pine.part",
+      "lines": 336
+    },
+    {
+      "file": "05B_FORK_WAVE_TIME.pine.part",
+      "lines": 530
+    },
+    {
+      "file": "05C_SIGNAL_WAVE_RECOVERY.pine.part",
+... (truncated for brevity)

@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "purpose": "Byte-exact Stage 7.4 Session 3 seed for Stage 8 development",
+  "join_contract": "Binary concatenation in order with no inserted separators",
+  "source": "versions/v7.4.0-baseline/canonical/master/PITBULL_Master_Stage7_4_EdgeBoard_Final_Session3.pine",
+  "master": {
+    "file": "src/master/PITBULL_Master_Working.pine",
+    "lines": 5243,
+    "bytes": 213473,
+    "sha256": "58ebabed2cc5b065a4b8b8bcb88eee3d7d81de5248f8bdb334c8683b97d77094",
+    "final_lf": true
+  },
+  "modules": [
+    {
+      "order": 1,
+      "file": "00_HEADER_PANEL.pine.part",
+      "line_start": 1,
+      "line_end": 199,
+      "lines": 199,
+      "byte_start": 0,
+      "byte_end_exclusive": 10745,
+      "bytes": 10745,
+      "sha256": "26802074e76d8248e69d5de63e887a51ab91399e663dfbc4f1a76ac9b69932c3"
+    },
+    {
+      "order": 2,
+      "file": "01_FOUNDATION_POOL.pine.part",
+      "line_start": 200,
+      "line_end": 820,
+      "lines": 621,
+      "byte_start": 10745,
+      "byte_end_exclusive": 34782,
+      "bytes": 24037,
+      "sha256": "444b9b1a1611c5064cd1b90cf5ab505cee93148e5e2dbb09cc3f2ec8d6502646"
+    },
+    {
+      "order": 3,
+      "file": "02_ENGINES_ARTIFACT_POOL.pine.part",
+      "line_start": 821,
+      "line_end": 1259,
+      "lines": 439,
+      "byte_start": 34782,
+      "byte_end_exclusive": 51768,
+      "bytes": 16986,
+      "sha256": "8da60eab06a1244893a00545a0d57968d5d7d2f0e39619f3cf9c0b05c4d9be19"
+    },
+    {
+      "order": 4,
+      "file": "03_EXECUTION_POSITION_SERVICE.pine.part",
+      "line_start": 1260,
+... (truncated for brevity)
