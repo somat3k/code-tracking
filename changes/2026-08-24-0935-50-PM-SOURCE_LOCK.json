@@ -1,0 +1,51 @@
+{
+  "version": "8.0.0-development",
+  "status": "working",
+  "master": {
+    "file": "src/master/PITBULL_Master_Working.pine",
+    "lines": 5753,
+    "sha256": "f05e0a114b67b0e882f0e5059ab3f8f2333ae924c6d6d8f7aa21583809750bf0"
+  },
+  "libraries": [
+    {
+      "import": "ClassicPotatoChamberXII/PB_Types/1",
+      "file": "src/libraries/PB_Types_v1.pine",
+      "sha256": "aa56cff688890d932ff78824f936b4ba09f687c1571b14766f22fe0d5cd13953"
+    },
+    {
+      "import": "ClassicPotatoChamberXII/PB_Math/2",
+      "file": "src/libraries/PB_Math_v2.pine",
+      "sha256": "aff7a7834c9c1d6aa28d3ee9ab5b46b169f0ed71ce3af707c35fa9805915c2e0"
+    },
+    {
+      "import": "ClassicPotatoChamberXII/PB_Governor/5",
+      "file": "src/libraries/PB_Governor_v5.pine",
+      "sha256": "67bb9a5e1f98b73ecd9e511d71a755e51cb988d98e9d09a4ce5a5d5c1c3885e5"
+    },
+    {
+      "import": "ClassicPotatoChamberXII/PB_Context/4",
+      "file": "src/libraries/PB_Context_v4.pine",
+      "sha256": "b7cb868b6c0aec087cc8a3bceac19abf5ed49c1de6c01abdcdf3df4e42c9c556"
+    },
+    {
+      "import": "ClassicPotatoChamberXII/PB_Waves/7",
+      "file": "src/libraries/PB_Waves_v7.pine",
+      "sha256": "0214457ed24580f14ad9c2ab37c74755875967af9d75ea07b63a4311eb0b3aa1"
+    },
+    {
+      "import": "ClassicPotatoChamberXII/PB_Structure/1",
+      "file": "src/libraries/PB_Structure_v1.pine",
+      "sha256": "e09748cde9c9fb8e00172a5e384ffc6240d84bb2cb30cb29ef16852d59cc35c7"
+    },
+    {
+      "import": "ClassicPotatoChamberXII/PB_Geometry/6",
+      "file": "src/libraries/PB_Geometry_v6.pine",
+      "sha256": "b25149ddba7ea1484de6c21d4507dcc2e07dc586b5f54df005c127e8164ec308"
+    },
+    {
+      "import": "ClassicPotatoChamberXII/PB_SliceTransport/1",
+      "file": "src/libraries/PB_SliceTransport_v1.pine",
+      "sha256": "3081f53e09092d32d7a64a1552573d4f2601ca3df3433e2df5de3657e5db1dd1"
+    },
+    {
+... (truncated for brevity)
