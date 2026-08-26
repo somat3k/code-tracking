@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "profile": "core",
+  "status": "fail",
+  "entrypoint": "src/master/PITBULL_Master_Working.pine",
+  "declaration": {
+    "kind": "strategy",
+    "pine_version": 6,
+    "pyramiding": "0",
+    "process_orders_on_close": "true",
+    "calc_on_order_fills": "true",
+    "calc_on_every_tick": "true",
+    "drawing_caps": {
+      "lines": 500,
+      "boxes": 400,
+      "labels": 500,
+      "polylines": null
+    }
+  },
+  "source_set": {
+    "file_count": 10,
+    "lines": 8880,
+    "bytes": 356312,
+    "aggregate_sha256": "6238fd2d6c0a5eb9fcef0ea56b6ef46c7d04a0c70ffaa60cfebe9fcf475155de",
+    "files": [
+      {
+        "path": "src/master/PITBULL_Master_Working.pine",
+        "role": "entrypoint",
+        "sha256": "fc92c612bfb777bd841ad810ab1915d86413670edcaf065de8f878b6e69bbdd7",
+        "bytes": 233283,
+        "lines": 5441,
+        "newline": "LF",
+        "final_lf": true,
+        "bom": false,
+        "utf8": true
+      },
+      {
+        "path": "src/libraries/PB_ArtifactCore_v1.pine",
+        "role": "library",
+        "sha256": "19fbc73568e7ea9e7c38ff020654b106bf0de262623e8a9ed0e8897584f4ac06",
+        "bytes": 26236,
+        "lines": 654,
+        "newline": "LF",
+        "final_lf": true,
+        "bom": false,
+        "utf8": true
+      },
+      {
+        "path": "src/libraries/PB_Context_v4.pine",
+        "role": "library",
+... (truncated for brevity)
