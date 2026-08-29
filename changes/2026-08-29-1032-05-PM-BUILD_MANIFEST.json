@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "contract": "Ordered binary concatenation with no inserted separators",
+  "entrypoint": {
+    "file": "src/master/PITBULL_Master_Working.pine",
+    "lines": 5411,
+    "bytes": 236454,
+    "sha256": "254d7f9142db0c779310568c713e58dd2b5078552bbb9c6e2a97f6ee633dad23"
+  },
+  "modules": [
+    {
+      "order": 1,
+      "file": "src/modules/00_HEADER_PANEL.pine.part",
+      "lines": 216,
+      "bytes": 13294,
+      "sha256": "d17dbbd2022d47b1a87fdd1f2b0cafbe265d433865aa0725806457b206f09763"
+    },
+    {
+      "order": 2,
+      "file": "src/modules/01_FOUNDATION_POOL.pine.part",
+      "lines": 660,
+      "bytes": 31400,
+      "sha256": "9cb9ab48cb1592637c1d15cd3378ab4440f74473caabcd5b0cfc2af79e938d5b"
+    },
+    {
+      "order": 3,
+      "file": "src/modules/02_ENGINES_ARTIFACT_POOL.pine.part",
+      "lines": 443,
+      "bytes": 17950,
+      "sha256": "7b0e4b4778a9196a53c962d8923352d0c02ea376d46c9d74f6d4b34e5f02c56a"
+    },
+    {
+      "order": 4,
+      "file": "src/modules/03_EXECUTION_POSITION_SERVICE.pine.part",
+      "lines": 405,
+      "bytes": 10073,
+      "sha256": "639bfa01f50ac860b2cdbf391c1b9f12a30cfc1a7f3599397496240e6c2814a2"
+    },
+    {
+      "order": 5,
+      "file": "src/modules/04A_RENDER_REGISTRY.pine.part",
+      "lines": 529,
+      "bytes": 20401,
+      "sha256": "18f056d96c1fea4e27f4fb483265042b7ead100df012898d91b06bf99db43865"
+    },
+    {
+      "order": 6,
+      "file": "src/modules/04B_FVG_TRANSPORT.pine.part",
+      "lines": 228,
+      "bytes": 11099,
+... (truncated for brevity)
