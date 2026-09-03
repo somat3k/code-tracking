@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "purpose": "Independent Pine library build artifacts for PITBULL",
+  "source_directory": "src/libraries",
+  "artifact_directory": "builds/libraries",
+  "libraries": [
+    {
+      "source": "src/libraries/PB_ArtifactCore_v1.pine",
+      "artifact": "builds/libraries/PB_ArtifactCore_v1.pine",
+      "library_name": "PB_ArtifactCore_v1",
+      "bytes": 28746,
+      "lines": 671,
+      "sha256": "371be09d896ddf8a32e0cf34b6713d7e6a922259bfe5f2d201fdf328dcade41a"
+    },
+    {
+      "source": "src/libraries/PB_Context_v4.pine",
+      "artifact": "builds/libraries/PB_Context_v4.pine",
+      "library_name": "PB_Context_v4",
+      "bytes": 16851,
+      "lines": 440,
+      "sha256": "b7cb868b6c0aec087cc8a3bceac19abf5ed49c1de6c01abdcdf3df4e42c9c556"
+    },
+    {
+      "source": "src/libraries/PB_Geometry_v6.pine",
+      "artifact": "builds/libraries/PB_Geometry_v6.pine",
+      "library_name": "PB_Geometry_v6",
+      "bytes": 28914,
+      "lines": 930,
+      "sha256": "544183be71514ba6829ed92c7bed7a86a68dc5b7fff798b08cb4ee7ad4972943"
+    },
+    {
+      "source": "src/libraries/PB_Governor_v5.pine",
+      "artifact": "builds/libraries/PB_Governor_v5.pine",
+      "library_name": "PB_Governor_v5",
+      "bytes": 3255,
+      "lines": 79,
+      "sha256": "67bb9a5e1f98b73ecd9e511d71a755e51cb988d98e9d09a4ce5a5d5c1c3885e5"
+    },
+    {
+      "source": "src/libraries/PB_HangingCandle_v1.pine",
+      "artifact": "builds/libraries/PB_HangingCandle_v1.pine",
+      "library_name": "PB_HangingCandle_v1",
+      "bytes": 5769,
+      "lines": 100,
+      "sha256": "5558d880b4249b86be052024690f46893da34b696d792555ea43076784b66815"
+    },
+    {
+      "source": "src/libraries/PB_Math_v2.pine",
+      "artifact": "builds/libraries/PB_Math_v2.pine",
+      "library_name": "PB_Math_v2",
+... (truncated for brevity)

@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "purpose": "Complete serialized inventory and provenance map for the PITBULL workspace",
+  "root": "v8.0.0-development",
+  "join_contract": "src/modules/*.pine.part are concatenated in lexical order by build_stage8.py",
+  "entrypoint": {
+    "file": "src/master/PITBULL_Master_Working.pine",
+    "category": "src",
+    "bytes": 249307,
+    "lines": 5509,
+    "sha256": "ddbc638255d98d2b5491df665cdc0b730f05e954a430c43f2c30d5b5404bdb09",
+    "origin_modules": [
+      "src/modules/00_HEADER_PANEL.pine.part",
+      "src/modules/01_FOUNDATION_POOL.pine.part",
+      "src/modules/02_ENGINES_ARTIFACT_POOL.pine.part",
+      "src/modules/03_EXECUTION_POSITION_SERVICE.pine.part",
+      "src/modules/04A_RENDER_REGISTRY.pine.part",
+      "src/modules/04B_FVG_TRANSPORT.pine.part",
+      "src/modules/04C_REMOTE_PRIMITIVES.pine.part",
+      "src/modules/05A_WEDGE_CEMENT_FIB.pine.part",
+      "src/modules/05B_FORK_WAVE_TIME.pine.part",
+      "src/modules/05C_SIGNAL_WAVE_RECOVERY.pine.part",
+      "src/modules/05D_FIELD_ORBIT_ANGLE.pine.part",
+      "src/modules/06_POSITION_WAVE_TIME.pine.part",
+      "src/modules/07_EDGE_BOARD_SESSION3_FINAL.pine.part"
+    ]
+  },
+  "ordered_modules": [
+    {
+      "file": "src/modules/00_HEADER_PANEL.pine.part",
+      "category": "src",
+      "bytes": 15161,
+      "lines": 234,
+      "sha256": "b599ef375d344b991faea5e6af894b6b4a59ca0ac622fd1b49510ff1d147ae3a",
+      "origin_module": "src/modules/00_HEADER_PANEL.pine.part"
+    },
+    {
+      "file": "src/modules/01_FOUNDATION_POOL.pine.part",
+      "category": "src",
+      "bytes": 36224,
+      "lines": 687,
+      "sha256": "dc9391b15258711dcc0edc76756709c922131484d232c33a900350258329ed71",
+      "origin_module": "src/modules/01_FOUNDATION_POOL.pine.part"
+    },
+    {
+      "file": "src/modules/02_ENGINES_ARTIFACT_POOL.pine.part",
+      "category": "src",
+      "bytes": 23807,
+      "lines": 512,
+      "sha256": "da698bd1aef9bee22a0a848675a44675128c778f9978dd193851cfe0fef682fb",
+... (truncated for brevity)
